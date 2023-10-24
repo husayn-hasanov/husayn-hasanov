@@ -6,19 +6,16 @@
     <a href="https://cto.asaxiy.uz">
         <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" height=25>
     </a>
-    <a href="https://twitter.com/husayn-hasanov">
+    <a href="https://twitter.com/Husayn_Hasanov">
         <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
     </a> 
     <a href="https://www.linkedin.com/in/husayn-hasanov">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
     </a>
-    <a href="https://facebook.com/husayn-hasanov">
+    <a href="https://facebook.com/HasanovHusayn">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
     </a> 
-    <a href="https://vk.com/husayn_hasanov">
-        <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" height=25>
-    </a>
-    <a href="https://t.me/@CTO_of_ASAXIY">
+    <a href="https://CTO_of_ASAXIY.t.me">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=25>
     </a>
     <a href="https://www.instagram.com/husayn_hasanov/">
