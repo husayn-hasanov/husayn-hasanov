@@ -37,6 +37,7 @@ I'm Husayn Hasanov — strategic technical leader and systems architect with 6+ 
 <details>
   <summary><b>💻  Main tech knowledge</b></summary>
   <br>
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Yii2](https://img.shields.io/badge/Yii_Framework-green.svg?style=flat)
@@ -62,10 +63,12 @@ I'm Husayn Hasanov — strategic technical leader and systems architect with 6+ 
 ![Redis](https://img.shields.io/badge/REDIS-DC382D.svg?&style=flat&logo=redis&logoColor=white)
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Clean Architecture](https://img.shields.io/badge/CLEAN%20ARCHITECTURE-6DB33F.svg?&style=flat&logoColor=white)
+
 </details>
 <details>
   <summary><b>🧠  Other knowledge, always learning</b></summary>
   <br>
+
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![XCode](https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -83,6 +86,7 @@ I'm Husayn Hasanov — strategic technical leader and systems architect with 6+ 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+
 </details>
 <details>
   <summary><b>⚙️  GitHub Statistics</b></summary>
