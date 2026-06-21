@@ -26,17 +26,15 @@
 * * *
 
 
-I'm Husayn Hasanov and I'm full stack web/app developer with more then 5 years experience. I have been working in various fields, starting from desktop apps, mobile apps and ending with web development. I have always been hard working and goal's focused with proven results. I love to explore and learn about new things.
-
+I'm Husayn Hasanov — strategic technical leader and systems architect with 6+ years building high-performance digital ecosystems. I'm the former CTO of Asaxiy, one of Uzbekistan's leading e-commerce and fintech companies, and now Founder & CEO of Mobilock, an Android MDM startup partnered with Google. I've worked across desktop, mobile and web development, with a focus on high-load and fintech-grade systems.
 * * *
-
-- 🧑‍💻 I’m currently working as Yii2 on PHP developer at [Asaxiy LLC](https://www.asaxiy.uz/)
-- 🔭 Currently researching data storing and searching algorithms for my dissertation work. 
-- 🛠️ Coding since 2018 with 5+ years of experience in enterprise wide software development.
-- 📚 Reading more about Business and Management, Psychology and how the computer works.
+- 🧑‍💻 I'm currently Founder & CEO at [Mobilock](https://mobilock.uz/), and IT Consultant (former CTO) at [Asaxiy LLC](https://www.asaxiy.uz/)
+- 🏗️ Led engineering for [asaxiy.uz](https://asaxiy.uz/) and built [murobaha.uz](https://murobaha.uz/) — Uzbekistan's first Halal installment-financing platform
+- 🛠️ Coding since 2018 with 6+ years of experience in enterprise-wide software development
+- 📚 Reading more about Business and Management, Psychology and how the computer works
 - 📺 Fan of Marvel MCU and more cartoons like Rick&Morty
 - ⚡ Hobbies are travelling, chess and competitive programming
-- 💬 Ask me about anything and everything.
+- 💬 Ask me about anything and everything
 - 😄 Pronouns he/his
 
 * * *
