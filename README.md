@@ -1,7 +1,5 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> How are you doing? 
-
 * * *
-
 <p>
     <a href="https://cto.asaxiy.uz">
         <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" height=25>
@@ -12,39 +10,31 @@
     <a href="https://www.linkedin.com/in/husayn-hasanov">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
     </a>
-    <a href="https://facebook.com/HasanovHusayn">
+    <a href="https://facebook.com/Hasanov_Husayn">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
     </a> 
-    <a href="https://CTO_of_ASAXIY.t.me">
+    <a href="https://t.me/HasanovHusayn">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=25>
     </a>
     <a href="https://www.instagram.com/husayn_hasanov/">
         <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
     </a>
 </p>
-
 * * *
-
-
-I'm Husayn Hasanov and I'm full stack web/app developer with more then 5 years experience. I have been working in various fields, starting from desktop apps, mobile apps and ending with web development. I have always been hard working and goal's focused with proven results. I love to explore and learn about new things.
-
+I'm Husayn Hasanov — strategic technical leader and systems architect with 6+ years building high-performance digital ecosystems. I'm the former CTO of Asaxiy, one of Uzbekistan's leading e-commerce and fintech companies, and now Founder & CEO of Mobilock, an Android MDM startup partnered with Google. I've worked across desktop, mobile and web development, with a focus on high-load and fintech-grade systems.
 * * *
-
-- 🧑‍💻 I’m currently working as Yii2 on PHP developer at [Asaxiy LLC](https://www.asaxiy.uz/)
-- 🔭 Currently researching data storing and searching algorithms for my dissertation work. 
-- 🛠️ Coding since 2018 with 5+ years of experience in enterprise wide software development.
-- 📚 Reading more about Business and Management, Psychology and how the computer works.
+- 🧑‍💻 I'm currently Founder & CEO at [Mobilock](https://mobilock.uz/), and IT Consultant (former CTO) at [Asaxiy LLC](https://www.asaxiy.uz/)
+- 🏗️ Led engineering for [asaxiy.uz](https://asaxiy.uz/) and built [murobaha.uz](https://murobaha.uz/) — Uzbekistan's first Halal installment-financing platform
+- 🛠️ Coding since 2018 with 6+ years of experience in enterprise-wide software development
+- 📚 Reading more about Business and Management, Psychology and how the computer works
 - 📺 Fan of Marvel MCU and more cartoons like Rick&Morty
 - ⚡ Hobbies are travelling, chess and competitive programming
-- 💬 Ask me about anything and everything.
+- 💬 Ask me about anything and everything
 - 😄 Pronouns he/his
-
 * * *
-
 <details>
   <summary><b>💻  Main tech knowledge</b></summary>
   <br>
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Yii2](https://img.shields.io/badge/Yii_Framework-green.svg?style=flat)
@@ -71,11 +61,9 @@ I'm Husayn Hasanov and I'm full stack web/app developer with more then 5 years e
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Clean Architecture](https://img.shields.io/badge/CLEAN%20ARCHITECTURE-6DB33F.svg?&style=flat&logoColor=white)
 </details>
-
 <details>
   <summary><b>🧠  Other knowledge, always learning</b></summary>
   <br>
-
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![XCode](https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -93,9 +81,7 @@ I'm Husayn Hasanov and I'm full stack web/app developer with more then 5 years e
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-
 </details>
-
 <details>
   <summary><b>⚙️  GitHub Statistics</b></summary>
   <br/>
@@ -109,9 +95,7 @@ I'm Husayn Hasanov and I'm full stack web/app developer with more then 5 years e
         <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husayn-hasanov&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
 </details>
-
 * * *
-
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=husayn-hasanov&style=plastic&label=Views"/>
 <img src="https://badges.pufler.dev/visits/husayn-hasanov/husayn-hasanov?color=black&logo=github" />
