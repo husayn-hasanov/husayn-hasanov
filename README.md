@@ -21,6 +21,8 @@
     </a>
 </p>
 * * *
+
+
 I'm Husayn Hasanov — strategic technical leader and systems architect with 6+ years building high-performance digital ecosystems. I'm the former CTO of Asaxiy, one of Uzbekistan's leading e-commerce and fintech companies, and now Founder & CEO of Mobilock, an Android MDM startup partnered with Google. I've worked across desktop, mobile and web development, with a focus on high-load and fintech-grade systems.
 * * *
 - 🧑‍💻 I'm currently Founder & CEO at [Mobilock](https://mobilock.uz/), and IT Consultant (former CTO) at [Asaxiy LLC](https://www.asaxiy.uz/)
