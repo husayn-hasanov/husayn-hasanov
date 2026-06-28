@@ -27,7 +27,7 @@ I'm Husayn Hasanov — strategic technical leader and systems architect with 6+ 
 * * *
 - 🧑‍💻 I'm currently Founder & CEO at [Mobilock](https://mobilock.uz/), and IT Consultant (former CTO) at [Asaxiy LLC](https://www.asaxiy.uz/)
 - 🏗️ Led engineering for [asaxiy.uz](https://asaxiy.uz/) and built [murobaha.uz](https://murobaha.uz/) — Uzbekistan's first Halal installment-financing platform
-- 🛠️ Coding since 2018 with 6+ years of experience in enterprise-wide software development
+- 🛠️ Coding since 2018 with 8+ years of experience in enterprise-wide software development
 - 📚 Reading more about Business and Management, Psychology and how the computer works
 - 📺 Fan of Marvel MCU and more cartoons like Rick&Morty
 - ⚡ Hobbies are travelling, chess and competitive programming
